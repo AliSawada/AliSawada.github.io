@@ -1,7 +1,3 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
 # Site
 title: Carbin in the Woods
 subtitle: 山河永寂，人间长情
@@ -9,7 +5,7 @@ description: 不可结缘 徒增寂寞
 keywords:
 author: Sylvia Ge
 language: Chinese
-timezone:
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
