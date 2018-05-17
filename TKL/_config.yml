@@ -31,15 +31,17 @@ weibo: http://weibo.com/
 #about  timeline
 timeline:
 - num: 1
-  word: 2018/05/16-开始我的博客，域名：
+  word: 2018/05/16-开始我的博客，域名：https://alisawada.github.io/
 - num: 2
   word: 不可结缘，徒增寂寞
+- num: 3
+  word: more
 
 
 #Links
 links:
 - name: Slvia
-  link: 
+  link: https://alisawada.github.io/
 
 
 # Local search
