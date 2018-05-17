@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Carbin in the Woods</title>
+  
+  <subtitle>ɽ�����ţ��˼䳤��</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-05-17T03:10:48.281Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Sylvia Ge</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不可结缘，徒增寂寞</title>
+    <link href="http://yoursite.com/2018/05/16/%E4%B8%8D%E5%8F%AF%E7%BB%93%E7%BC%98%EF%BC%8C%E5%BE%92%E5%A2%9E%E5%AF%82%E5%AF%9E/"/>
+    <id>http://yoursite.com/2018/05/16/不可结缘，徒增寂寞/</id>
+    <published>2018-05-16T22:36:47.000Z</published>
+    <updated>2018-05-17T03:10:48.281Z</updated>
+    
+    <content type="html"><![CDATA[<p>不可结缘，徒增寂寞，非是不可，易结难解<br>不请自来的人，往往会不告而别<br>心有所觉，但亦作不解</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;不可结缘，徒增寂寞，非是不可，易结难解&lt;br&gt;不请自来的人，往往会不告而别&lt;br&gt;心有所觉，但亦作不解&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="夏风不息" scheme="http://yoursite.com/categories/%E5%A4%8F%E9%A3%8E%E4%B8%8D%E6%81%AF/"/>
+    
+    
+      <category term="治愈" scheme="http://yoursite.com/tags/%E6%B2%BB%E6%84%88/"/>
+    
+  </entry>
+  
+</feed>
