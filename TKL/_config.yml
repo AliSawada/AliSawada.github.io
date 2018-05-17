@@ -1,0 +1,53 @@
+﻿# config
+cover: /img/bg_img.jpg
+logo: /img/logo.png
+top_saying:
+- title: Carbin in the Woods
+- content: 不可结缘，徒增寂寞
+bottom_saying: 山河永寂，人间长情
+# Content
+excerpt_link: Read More
+
+rss: /atom.xml
+
+highlightjs: vs
+
+#duoshuo name
+duoshuo:
+
+#disqus name
+disqus_shortname:
+
+#fancybox
+fancybox: true
+
+# Miscellaneous
+github: https://github.com/
+twitter: https://twitter.com/
+facebook: https://www.facebook.com/
+google: https://google.com/
+weibo: http://weibo.com/
+
+#about  timeline
+timeline:
+- num: 1
+  word: 2018/05/16-开始我的博客，域名：
+- num: 2
+  word: 不可结缘，徒增寂寞
+
+
+#Links
+links:
+- name: Slvia
+  link: 
+
+
+# Local search
+# Dependencies: https://github.com/flashlab/hexo-generator-search
+local_search:
+  enable: ture
+  # if auto, trigger search by changing input
+  # if manual, trigger search by pressing enter key or search button
+  trigger: auto
+  # show top n results per article, show all results by setting to -1
+  top_n_per_article: 2
